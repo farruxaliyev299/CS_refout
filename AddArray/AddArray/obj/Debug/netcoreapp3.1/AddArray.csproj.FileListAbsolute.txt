@@ -1,0 +1,28 @@
+D:\C#\AddArray\AddArray\obj\Debug\netcoreapp3.1\AddArray.csproj.AssemblyReference.cache
+D:\C#\AddArray\AddArray\obj\Debug\netcoreapp3.1\AddArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\AddArray\AddArray\obj\Debug\netcoreapp3.1\AddArray.AssemblyInfoInputs.cache
+D:\C#\AddArray\AddArray\obj\Debug\netcoreapp3.1\AddArray.AssemblyInfo.cs
+D:\C#\AddArray\AddArray\obj\Debug\netcoreapp3.1\AddArray.csproj.CoreCompileInputs.cache
+D:\C#\AddArray\AddArray\bin\Debug\netcoreapp3.1\AddArray.exe
+D:\C#\AddArray\AddArray\bin\Debug\netcoreapp3.1\AddArray.deps.json
+D:\C#\AddArray\AddArray\bin\Debug\netcoreapp3.1\AddArray.runtimeconfig.json
+D:\C#\AddArray\AddArray\bin\Debug\netcoreapp3.1\AddArray.runtimeconfig.dev.json
+D:\C#\AddArray\AddArray\bin\Debug\netcoreapp3.1\AddArray.dll
+D:\C#\AddArray\AddArray\bin\Debug\netcoreapp3.1\AddArray.pdb
+D:\C#\AddArray\AddArray\obj\Debug\netcoreapp3.1\AddArray.dll
+D:\C#\AddArray\AddArray\obj\Debug\netcoreapp3.1\AddArray.pdb
+D:\C#\AddArray\AddArray\obj\Debug\netcoreapp3.1\AddArray.genruntimeconfig.cache
+C:\Users\DELL\Desktop\Code Academy\C#refout\AddArray\AddArray\bin\Debug\netcoreapp3.1\AddArray.exe
+C:\Users\DELL\Desktop\Code Academy\C#refout\AddArray\AddArray\bin\Debug\netcoreapp3.1\AddArray.deps.json
+C:\Users\DELL\Desktop\Code Academy\C#refout\AddArray\AddArray\bin\Debug\netcoreapp3.1\AddArray.runtimeconfig.json
+C:\Users\DELL\Desktop\Code Academy\C#refout\AddArray\AddArray\bin\Debug\netcoreapp3.1\AddArray.runtimeconfig.dev.json
+C:\Users\DELL\Desktop\Code Academy\C#refout\AddArray\AddArray\bin\Debug\netcoreapp3.1\AddArray.dll
+C:\Users\DELL\Desktop\Code Academy\C#refout\AddArray\AddArray\bin\Debug\netcoreapp3.1\AddArray.pdb
+C:\Users\DELL\Desktop\Code Academy\C#refout\AddArray\AddArray\obj\Debug\netcoreapp3.1\AddArray.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\Code Academy\C#refout\AddArray\AddArray\obj\Debug\netcoreapp3.1\AddArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\Code Academy\C#refout\AddArray\AddArray\obj\Debug\netcoreapp3.1\AddArray.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\Code Academy\C#refout\AddArray\AddArray\obj\Debug\netcoreapp3.1\AddArray.AssemblyInfo.cs
+C:\Users\DELL\Desktop\Code Academy\C#refout\AddArray\AddArray\obj\Debug\netcoreapp3.1\AddArray.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Code Academy\C#refout\AddArray\AddArray\obj\Debug\netcoreapp3.1\AddArray.dll
+C:\Users\DELL\Desktop\Code Academy\C#refout\AddArray\AddArray\obj\Debug\netcoreapp3.1\AddArray.pdb
+C:\Users\DELL\Desktop\Code Academy\C#refout\AddArray\AddArray\obj\Debug\netcoreapp3.1\AddArray.genruntimeconfig.cache

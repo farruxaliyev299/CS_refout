@@ -1,0 +1,14 @@
+C:\Users\DELL\Desktop\Code Academy\C#refout\StringMerge\StringMerge\bin\Debug\netcoreapp3.1\StringMerge.exe
+C:\Users\DELL\Desktop\Code Academy\C#refout\StringMerge\StringMerge\bin\Debug\netcoreapp3.1\StringMerge.deps.json
+C:\Users\DELL\Desktop\Code Academy\C#refout\StringMerge\StringMerge\bin\Debug\netcoreapp3.1\StringMerge.runtimeconfig.json
+C:\Users\DELL\Desktop\Code Academy\C#refout\StringMerge\StringMerge\bin\Debug\netcoreapp3.1\StringMerge.runtimeconfig.dev.json
+C:\Users\DELL\Desktop\Code Academy\C#refout\StringMerge\StringMerge\bin\Debug\netcoreapp3.1\StringMerge.dll
+C:\Users\DELL\Desktop\Code Academy\C#refout\StringMerge\StringMerge\bin\Debug\netcoreapp3.1\StringMerge.pdb
+C:\Users\DELL\Desktop\Code Academy\C#refout\StringMerge\StringMerge\obj\Debug\netcoreapp3.1\StringMerge.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\Code Academy\C#refout\StringMerge\StringMerge\obj\Debug\netcoreapp3.1\StringMerge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\Code Academy\C#refout\StringMerge\StringMerge\obj\Debug\netcoreapp3.1\StringMerge.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\Code Academy\C#refout\StringMerge\StringMerge\obj\Debug\netcoreapp3.1\StringMerge.AssemblyInfo.cs
+C:\Users\DELL\Desktop\Code Academy\C#refout\StringMerge\StringMerge\obj\Debug\netcoreapp3.1\StringMerge.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Code Academy\C#refout\StringMerge\StringMerge\obj\Debug\netcoreapp3.1\StringMerge.dll
+C:\Users\DELL\Desktop\Code Academy\C#refout\StringMerge\StringMerge\obj\Debug\netcoreapp3.1\StringMerge.pdb
+C:\Users\DELL\Desktop\Code Academy\C#refout\StringMerge\StringMerge\obj\Debug\netcoreapp3.1\StringMerge.genruntimeconfig.cache
